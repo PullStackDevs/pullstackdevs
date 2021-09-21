@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, We're Pull Stack Developers!</h1>
 <p align="center">
-  <img src="pullstack.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="pullstack.png" width="550" title="hover text">
+
 </p>
-![Screenshot](pullstack.png)
-<h3 align="center">A passionate tech community from Nepal.</h3>
+<h3 align="center">A passionate open-source tech community from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pullstackdevs&label=Profile%20views&color=0e75b6&style=flat" alt="pullstackdevs" /> </p>
 
