@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We're Pull Stack Developers!</h1>
 <p align="center">
-  <img src="pullstack.png" width="550" title="hover text">
+  <img src="pullstack.png" width="850" title="hover text">
 
 </p>
 <h3 align="center">A passionate open-source tech community from Nepal.</h3>
