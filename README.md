@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, We're Pull Stack Developers!</h1>
+<p align="center">
+  <img src="pullstack.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 ![Screenshot](pullstack.png)
 <h3 align="center">A passionate tech community from Nepal.</h3>
 
